@@ -6,33 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:기상청 날씨
 X-WR-TIMEZONE:Asia/Seoul
 BEGIN:VEVENT
-SUMMARY:☀️ 27°C/29°C 🟡🟡
-DTSTART;VALUE=DATE:20260711
-DTEND;VALUE=DATE:20260712
-DTSTAMP:20260711T120343Z
-UID:20260711@short_summary
-DESCRIPTION:📍 대전면 덕진옥산 날씨 (위경도 35.281\, 126.955
- )\n\n☀️ 지금 날씨: 맑음\n기온: 27°C (☀️ 따뜻해요)\n
- 최고 온도: 29°C / 최저 온도: 27°C\n습도: 75%\n바람: 2 m/s (
- 남실바람 — 잎이 바스락거림) (동남동쪽에서) \n오늘은 
- ☀️ 우산 안 챙겨도 OK (비올 확률 0%)\n다음 비🌧 : 7월 1
- 3일 오후 3시경 비\n\n😊 오늘 공기는 깨끗해요\n미세먼
- 지 (PM10): 20.0 ㎍/㎥ (🟢 좋음)\n초미세먼지 (PM2.5): 9.4 ㎍/
- ㎥ (🟢 좋음)\n오존(O₃): 0.0 ppm (🟢 좋음)\n\n⛅ 내일은?\n
- 최고 32°C (☀️ 더워요) / 최저 26°C (☀️ 따뜻해요)\n오
- 전: ☀️ 맑음 / 오후: ☀️ 맑음\n\n☀️ 오늘 해는?\n🌅 
- 일출: 오늘 05:26\n🌇 일몰: 오늘 19:48\n🌆 시민박명: 오늘
-  04:56 ~ 오늘 20:18\n🌃 천문박명: 오늘 03:40 ~ 오늘 21:34\n\n
- 🌘 달은?\n위상: 그믐달 (조도 12%)\n🌒 월출: 내일 02:26\n
- 🌘 월몰: 오늘 16:47\n\n🌌 은하수 추적\n🔭 지금 상황: 
- 관측불가 — 아직 충분히 어둡지 않음 (고도 20.0°)\n달 
- 고도: -28.4°\n⏰ 오늘 밤 관측 가능 시간대: 오늘 21:34 ~ 
- 내일 03:40\n\n⏱ 시간별 상세\n[22시] ☀️ 맑음 27°C (💧75%
-  🚩2m/s)\n[23시] ☀️ 맑음 27°C (💧75% 🚩3m/s)\n\n📊 최종 
- 업데이트: 2026-07-11 21:03:43 (KST)
-LOCATION:대전면 덕진옥산
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:⛅ 26°C/32°C 🟡🟡
 DTSTART;VALUE=DATE:20260712
 DTEND;VALUE=DATE:20260713
@@ -123,63 +96,63 @@ DESCRIPTION:[오전] 🌧️ 흐리고 비 (☔70%)\n[오후] 🌧️ 흐
 LOCATION:대전면 덕진옥산
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🌧️ 23/30°C
+SUMMARY:🌧️ 23/31°C
 DTSTART;VALUE=DATE:20260716
 DTEND;VALUE=DATE:20260717
-DTSTAMP:20260711T120343Z
+DTSTAMP:20260711T151401Z
 UID:20260716@mid
 DESCRIPTION:[오전] 🌧️ 흐리고 비 (☔60%)\n[오후] 🌧️ 흐
- 리고 비 (☔60%)\n\n최종 업데이트: 2026-07-11 21:03:43 (KST)
+ 리고 비 (☔60%)\n\n최종 업데이트: 2026-07-12 00:14:01 (KST)
 LOCATION:대전면 덕진옥산
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:☁️ 23/31°C
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
-DTSTAMP:20260711T120343Z
+DTSTAMP:20260711T151401Z
 UID:20260717@mid
 DESCRIPTION:[오전] ☁️ 흐림 (☔30%)\n[오후] ☁️ 흐림 (☔30
- %)\n\n최종 업데이트: 2026-07-11 21:03:43 (KST)
+ %)\n\n최종 업데이트: 2026-07-12 00:14:01 (KST)
 LOCATION:대전면 덕진옥산
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⛅ 24/30°C
+SUMMARY:⛅ 24/32°C
 DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20260719
-DTSTAMP:20260711T120343Z
+DTSTAMP:20260711T151401Z
 UID:20260718@mid
 DESCRIPTION:[오전] ⛅ 구름많음 (☔20%)\n[오후] ⛅ 구름많음 
- (☔20%)\n\n최종 업데이트: 2026-07-11 21:03:43 (KST)
+ (☔20%)\n\n최종 업데이트: 2026-07-12 00:14:01 (KST)
 LOCATION:대전면 덕진옥산
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:☁️ 24/30°C
 DTSTART;VALUE=DATE:20260719
 DTEND;VALUE=DATE:20260720
-DTSTAMP:20260711T120343Z
+DTSTAMP:20260711T151401Z
 UID:20260719@mid
 DESCRIPTION:[종일] ☁️ 흐림 (☔30%)\n\n최종 업데이트: 2026-0
- 7-11 21:03:43 (KST)
+ 7-12 00:14:01 (KST)
 LOCATION:대전면 덕진옥산
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:☁️ 24/30°C
+SUMMARY:☁️ 24/31°C
 DTSTART;VALUE=DATE:20260720
 DTEND;VALUE=DATE:20260721
-DTSTAMP:20260711T120343Z
+DTSTAMP:20260711T151401Z
 UID:20260720@mid
 DESCRIPTION:[종일] ☁️ 흐림 (☔30%)\n\n최종 업데이트: 2026-0
- 7-11 21:03:43 (KST)
+ 7-12 00:14:01 (KST)
 LOCATION:대전면 덕진옥산
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛅ 23/31°C
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20260711T120343Z
+DTSTAMP:20260711T151401Z
 UID:20260721@mid
 DESCRIPTION:[종일] ⛅ 구름많음 (☔20%)\n\n최종 업데이트: 202
- 6-07-11 21:03:43 (KST)
+ 6-07-12 00:14:01 (KST)
 LOCATION:대전면 덕진옥산
 END:VEVENT
 END:VCALENDAR
